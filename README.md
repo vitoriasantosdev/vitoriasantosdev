@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro, com histórico em liderança comercial e suporte administrativo. Apaixonada por resolução de problemas e desenvolvimento de aplicações eficientes, atuando na construção de sistemas desktop e backend com foco em boas práticas, modularidade e experiência do usuário.
+Estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro, com histórico em liderança comercial e suporte administrativo. Apaixonada por resolução de problemas e desenvolvimento de aplicações eficientes, atuando na construção de sistemas desktop e backend com foco na resolução de problemas e experiência do usuário.
 
 ---
 
