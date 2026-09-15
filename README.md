@@ -6,9 +6,8 @@
   **Desenvolvedora de Software | Estudante de Análise e Desenvolvimento de Sistemas**  
   Foco em desenvolvimento Java, arquitetura de software e soluções orientadas a objetos.
 
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-santos-silva/)
-  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-
+ [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-santos-silva/)
+  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 </div>
 
 ---
